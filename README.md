@@ -1,1 +1,1 @@
-# crewai_starter
+# crewai_starter (master project)
